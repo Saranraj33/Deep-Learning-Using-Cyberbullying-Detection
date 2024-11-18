@@ -21,9 +21,11 @@
      4. Other cyberbullying
      5. Age
      6. Gender
+        ![Screenshot 2024-11-18 152527](https://github.com/user-attachments/assets/e5be5ef8-2803-4a1f-be24-d42941735655)
 
 7) It contains the textbox of our webpage
-![Screenshot 2024-11-18 152527](https://github.com/user-attachments/assets/e5be5ef8-2803-4a1f-be24-d42941735655)
+
+![Screenshot 2024-04-25 160125](https://github.com/user-attachments/assets/29e624c8-6bf8-485a-976d-d5b9239908f3)
 
 
 
