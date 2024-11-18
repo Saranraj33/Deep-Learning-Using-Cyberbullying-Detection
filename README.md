@@ -1,5 +1,5 @@
 # Deep-Learning-Using-Cyberbullying-Detection
-# cyberbullying_detection_app
+
 
 ***** Instructions for How to Run the Project *****
 
@@ -23,6 +23,9 @@
      6. Gender
 
 7) It contains the textbox of our webpage
+![Screenshot 2024-11-18 152527](https://github.com/user-attachments/assets/e5be5ef8-2803-4a1f-be24-d42941735655)
+
+
 
 8) To enter the tweet or comment in these textbox
 
